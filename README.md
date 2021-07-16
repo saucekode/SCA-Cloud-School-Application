@@ -13,9 +13,13 @@ In order to run this container, you'll need docker installed in:
 
 ## How to use docker container
 
-Run the command:
+- To download docker image. Run the command:
 ```
 docker pull <docker image name>
+```
+- To start docker container, use command:
+```
+docker run <docker image name>
 ```
 
 ## Deployment Instructions
