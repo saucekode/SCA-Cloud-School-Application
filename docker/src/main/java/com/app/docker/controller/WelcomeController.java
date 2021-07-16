@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class WelcomeController {
     @GetMapping("/")
     public String welcome(){
-        return "Welcome to SCA Cloud School Application";
+        return "Welcome to SCA Cloud School Application , this is my first assessment";
     }
 }
