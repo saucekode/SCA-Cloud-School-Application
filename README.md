@@ -39,4 +39,4 @@ docker push <dockerhub username>/<docker image name>:<tag name or version>
 4. Deployment successful!
 
 ### Link to docker repository
-[see here](https://hub.docker.com/repository/docker/saucekode/sca-docker)
+[view here](https://hub.docker.com/repository/docker/saucekode/sca-docker)
