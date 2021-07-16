@@ -11,6 +11,13 @@ In order to run this container, you'll need docker installed in:
 - [Mac OSX](https://docs.docker.com/docker-for-mac/install/)
 - [Linux](https://docs.docker.com/engine/install/)
 
+## How to use docker container
+
+Run the command:
+```
+docker pull <docker image name>
+```
+
 ## Deployment Instructions
 
 1. Log into Docker using command and enter credentials:
