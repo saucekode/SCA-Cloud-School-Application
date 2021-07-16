@@ -13,9 +13,13 @@ In order to run this container, you'll need docker installed in:
 
 ## How to use docker container
 
-Run the command:
+- To download docker image. Run the command:
 ```
 docker pull <docker image name>
+```
+- To start docker container, use command:
+```
+docker run <docker image name>
 ```
 
 ## Deployment Instructions
@@ -35,4 +39,4 @@ docker push <dockerhub username>/<docker image name>:<tag name or version>
 4. Deployment successful!
 
 ### Link to docker repository
-[see here](https://hub.docker.com/repository/docker/saucekode/sca-docker)
+[view here](https://hub.docker.com/repository/docker/saucekode/sca-docker)
